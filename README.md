@@ -1,5 +1,5 @@
-# Vtuber-performance-record (v0.0.1)
-更新時間: 2022-06-11 17:30 GMT+8
+# Vtuber-performance-record (v0.0.2)
+更新時間: 2022-06-11 17:43 GMT+8
 
 <hr>
 
