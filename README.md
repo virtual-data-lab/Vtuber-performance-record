@@ -1,5 +1,5 @@
-# Vtuber-performance-record (v0.0.5)
-更新時間: 2022-06-11 23:58 GMT+8
+# Vtuber-performance-record (v0.0.6)
+更新時間: 2022-06-12 02:41 GMT+8
 
 未來有機會使用不同方式把數據/ 連結呈現出來
 例如靜態/ 動態網站 敬請期待
@@ -20,9 +20,11 @@ Facebook: https://www.facebook.com/groups/2569285399989405/?multi_permalinks=309
 
 https://docs.google.com/spreadsheets/d/1T94y5l0Rkgonc_S4jcUnTyFsGXlQtNS6 (李李鈴蘭)
 https://docs.google.com/spreadsheets/d/1Z3xvk6ugHeErdzgVUGg1yCWLb_BENcEA (瑪格麗特)
+https://docs.google.com/spreadsheets/d/1CEhAQ5ql0XjeVJCoV151XJt__yqfxg-z (神稻櫻火)
 
 <hr>
 
 暫時收錄名單 (稍後會陸續有其他更新 歡迎提議):
 - 李李鈴蘭
 - 瑪格麗特
+- 神稻櫻火
