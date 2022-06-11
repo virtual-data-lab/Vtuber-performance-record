@@ -1,5 +1,5 @@
 # Vtuber-performance-record (v0.0.1)
-更新時間: 2022-06-11 11:29 GMT+8
+更新時間: 2022-06-11 17:30 GMT+8
 
 <hr>
 
@@ -15,9 +15,11 @@ Facebook: https://www.facebook.com/groups/2569285399989405/?multi_permalinks=309
 
 ![image](https://user-images.githubusercontent.com/107298988/173179031-33fbe240-a8f7-47aa-897d-0c29edb519cc.png)
 
-https://docs.google.com/spreadsheets/d/1T94y5l0Rkgonc_S4jcUnTyFsGXlQtNS6/edit?rtpof=true&sd=true#gid=245884975
+https://docs.google.com/spreadsheets/d/1T94y5l0Rkgonc_S4jcUnTyFsGXlQtNS6
+https://docs.google.com/spreadsheets/d/1Z3xvk6ugHeErdzgVUGg1yCWLb_BENcEA
 
 <hr>
 
 暫時收錄名單 (稍後會陸續有其他更新 歡迎提議):
 - 李李鈴蘭
+- 瑪格麗特
