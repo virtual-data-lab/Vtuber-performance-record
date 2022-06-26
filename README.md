@@ -18,12 +18,8 @@ Facebook: https://www.facebook.com/groups/2569285399989405/?multi_permalinks=309
 
 ![image](https://user-images.githubusercontent.com/107298988/173179031-33fbe240-a8f7-47aa-897d-0c29edb519cc.png)
 
-以下的Google表格 因為不能自動/簡單的更新 所以不會再更新 敬請留意
+之前的Google表格 因為不能自動/簡單的更新 所以不會再更新 敬請留意
 要最新的可以看上面的.csv檔
-
-https://docs.google.com/spreadsheets/d/1T94y5l0Rkgonc_S4jcUnTyFsGXlQtNS6 (李李鈴蘭)
-https://docs.google.com/spreadsheets/d/1Z3xvk6ugHeErdzgVUGg1yCWLb_BENcEA (瑪格麗特)
-https://docs.google.com/spreadsheets/d/1CEhAQ5ql0XjeVJCoV151XJt__yqfxg-z (神稻櫻火)
 
 <hr>
 
