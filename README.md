@@ -1,8 +1,8 @@
-# Vtuber-performance-record (v0.0.11)
-更新時間: 2022-06-23 08:11 GMT+8
+# Vtuber-performance-record (v0.0.12)
+更新時間: 2022-06-26 13:06 GMT+8
 
 未來有機會使用不同方式把數據/ 連結呈現出來
-例如靜態/ 動態網站 敬請期待
+例如靜態/ 動態網站 敬請期待 (即將小測試/試驗)
 
 <hr>
 
@@ -18,7 +18,8 @@ Facebook: https://www.facebook.com/groups/2569285399989405/?multi_permalinks=309
 
 ![image](https://user-images.githubusercontent.com/107298988/173179031-33fbe240-a8f7-47aa-897d-0c29edb519cc.png)
 
-以下的Google表格 可以會比這個Repo晚一點更新 敬請留意
+以下的Google表格 因為不能自動/簡單的更新 所以不會再更新 敬請留意
+要最新的可以看上面的.csv檔
 
 https://docs.google.com/spreadsheets/d/1T94y5l0Rkgonc_S4jcUnTyFsGXlQtNS6 (李李鈴蘭)
 https://docs.google.com/spreadsheets/d/1Z3xvk6ugHeErdzgVUGg1yCWLb_BENcEA (瑪格麗特)
