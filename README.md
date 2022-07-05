@@ -16,8 +16,6 @@ Facebook: https://www.facebook.com/groups/2569285399989405/?multi_permalinks=309
 <hr>
 表單例子
 
-![image](https://user-images.githubusercontent.com/107298988/173179031-33fbe240-a8f7-47aa-897d-0c29edb519cc.png)
-
 之前的Google表格 因為不能自動/簡單的更新 所以不會再更新 敬請留意
 要最新的可以看上面的.csv檔
 
