@@ -1,4 +1,4 @@
-# Vtuber-performance-record (v0.0.19)
+# Vtuber-performance-record (v0.0.20)
 資料更新時間: 2022-07-10 20:16 GMT+8
 
 未來有機會使用不同方式把數據/ 連結呈現出來
